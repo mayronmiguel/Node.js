@@ -17,8 +17,8 @@ Ao longo deste repositório, serão explorados os seguintes tópicos:
 
 ### 2. **Aprenda a programar em JavaScript com foco no back-end**
 - [x] Conceitos de back-end e servidores.
-- [ ] Utilização do Node.js para criar aplicações.
-- [ ] Módulos, eventos e manipulação de arquivos.
+- [x] Utilização do Node.js para criar aplicações.
+- [x] Módulos, eventos e manipulação de arquivos.
 
 ### 3. **APIs com Node.js e Express**
 - [ ] Desenvolvimento de APIs RESTful.
