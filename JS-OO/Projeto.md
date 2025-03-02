@@ -17,7 +17,9 @@ Para entender melhor a estrutura do sistema, utilizamos um **diagrama UML** que 
 ## Diagrama UML
 O seguinte diagrama apresenta as classes do sistema e suas relações de herança:
 
+
 ![Classe UML](https://github.com/user-attachments/assets/773dc55b-9015-48fa-9690-97cd61397f77)
+
 
 ### Classe Base: `User`
 A classe `User` contém os atributos básicos:
