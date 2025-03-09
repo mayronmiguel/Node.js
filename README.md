@@ -21,7 +21,7 @@ Ao longo deste repositório, serão explorados os seguintes tópicos:
 - [x] Módulos, eventos e manipulação de arquivos.
 
 ### 3. **APIs com Node.js e Express**
-- [ ] Desenvolvimento de APIs RESTful.
+- [x] Desenvolvimento de APIs RESTful.
 - [ ] Roteamento e middleware no Express.
 - [ ] Teste e consumo de APIs com ferramentas como Postman.
 
